@@ -1,0 +1,10 @@
+datasets>=2.18.0
+transformers>=4.40.0
+accelerate>=0.28.0
+torch
+scikit-learn>=1.4.0
+shap>=0.45.0
+pandas
+numpy
+matplotlib
+pyarrow
