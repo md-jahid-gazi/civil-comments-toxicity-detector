@@ -1,0 +1,15 @@
+data/
+cache/
+checkpoints/
+results/
+outputs/
+*.pt
+*.pth
+*.bin
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+civil_comments_sample/
+civil_comments_full_cache/
